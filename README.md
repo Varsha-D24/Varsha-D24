@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/varshad87516473" target="blank"><img src="https://img.shields.io/twitter/follow/varshad87516473?logo=twitter&style=for-the-badge" alt="varshad87516473" /></a> </p>
 
-- 🔭 I’m currently working on **Crime Reporting System**
-
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **Cyber Security future Technologies**
-
-- 🤝 I’m looking for help with **Cyber Physical Sytem using Arduino**
 
 - 💬 Ask me about **Backend or Software developer**
 
