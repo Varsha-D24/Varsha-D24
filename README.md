@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/varshad87516473" target="blank"><img src="https://img.shields.io/twitter/follow/varshad87516473?logo=twitter&style=for-the-badge" alt="varshad87516473" /></a> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Cyber Security future Technologies**
+- 👯 I’m looking to collaborate on **Softwaare Development**
 
 - 💬 Ask me about **Backend or Software developer**
 
-- 📫 How to reach me **varshadw2402@gmail.com**
+- 📫 How to reach me **varshad9987@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1wQxIu1DUwipnt6ZdF_ITRceCTWeBP1ub/edit?usp=share_link&ouid=111553254452117229454&rtpof=true&sd=true](https://docs.google.com/document/d/1wQxIu1DUwipnt6ZdF_ITRceCTWeBP1ub/edit?usp=share_link&ouid=111553254452117229454&rtpof=true&sd=true)
 
